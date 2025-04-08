@@ -11,3 +11,5 @@
 使用管理员权限运行输入看多少分钟关闭抖音即可<br>
 ![image](https://github.com/user-attachments/assets/2bd62f66-d505-4463-a86b-d42b08bcd453)
 
+![image](https://github.com/user-attachments/assets/88f6fb8f-8fcd-41cb-abca-610c7ea1a466)
+![image](https://github.com/user-attachments/assets/319d1b6c-d135-422e-b85b-1f37f298e849)
